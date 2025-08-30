@@ -18,3 +18,13 @@ obj
 /local.properties
 
 libc++_shared.so
+
+# Blockchain related files (should not be in this project)
+*.html
+blockchain*.js
+blockchain*.py
+init_blockchain.js
+sample_assets.js
+script*.js
+style.css
+secure-asset-manager/
